@@ -17,7 +17,9 @@ _Topics we study:_
 
 ## Outcomes
 - basics and OOP in Python
-- arcade lib
-  --_W04-5 - Ping pong games were created that were controlled with arrows._
+- arcade lib (folder "prove"):
+  _W05 - Ping pong game were created that were controlled with arrows._
   _W06-7 - Skeet games were created that were controlled with the mouse._
-  _W_
+  _W08-11 - An asteroids game were created that were controled with arrows and space_
+- team work (folder "team"):
+  _We worked as a team to solve programming problems and help each other improve our Python skills._
